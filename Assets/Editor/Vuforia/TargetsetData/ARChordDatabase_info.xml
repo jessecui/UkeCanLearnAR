@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-23 21:12:59" name="ukulele7" targetId="4fb72c7266de44e4bd60127730d9ca78" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-23 20:28:02" name="ukulele3" targetId="8f079f0b8e904c08b00a1c88794fafa2" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-23 20:42:45" name="ukulele5" targetId="625b1439a6dd4f6ea13ab4506f38056b" version="2.0" />
+  </TargetSet>
+</QCARInfo>
